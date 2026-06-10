@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "total": 5,
+    "tested": 5,
+    "missing": 0,
+    "passed_audio_quality": 5,
+    "passed_similarity": 3,
+    "warned_similarity": 0,
+    "failed_similarity": 2,
+    "avg_similarity_pct": 66.7,
+    "silence_trim_mode": "in-memory only"
+  },
+  "details": [
+    {
+      "speaker_id": "speaker_001",
+      "surah": "Al-Fatihah",
+      "ayat": 1,
+      "audio": "speaker_001/al-fatihah/ayat_1.wav",
+      "similarity_pct": 87.0,
+      "status": "PASS",
+      "audio_issues": [
+        "Silence panjang di awal (akan ditrim)"
+      ],
+      "cut_silence_sec": 0.33,
+      "transcription": "بسم الله الرخمان الرحيل"
+    },
+    {
+      "speaker_id": "speaker_001",
+      "surah": "Al-Fatihah",
+      "ayat": 2,
+      "audio": "speaker_001/al-fatihah/ayat_2.wav",
+      "similarity_pct": 100.0,
+      "status": "PASS",
+      "audio_issues": [
+        "Silence panjang di awal (akan ditrim)"
+      ],
+      "cut_silence_sec": 0.42,
+      "transcription": "الحمد لله رب العالمين"
+    },
+    {
+      "speaker_id": "speaker_001",
+      "surah": "Al-Fatihah",
+      "ayat": 3,
+      "audio": "speaker_001/al-fatihah/ayat_3.wav",
+      "similarity_pct": 100.0,
+      "status": "PASS",
+      "audio_issues": [
+        "Silence panjang di awal (akan ditrim)"
+      ],
+      "cut_silence_sec": 0.38,
+      "transcription": "الرحمن الرحيم"
+    },
+    {
+      "speaker_id": "speaker_001",
+      "surah": "Al-Fatihah",
+      "ayat": 4,
+      "audio": "speaker_001/al-fatihah/ayat_4.wav",
+      "similarity_pct": 28.6,
+      "status": "FAIL",
+      "audio_issues": [],
+      "cut_silence_sec": 0.35,
+      "transcription": "إيه يا كنا بروعي يا كناستعين"
+    },
+    {
+      "speaker_id": "speaker_001",
+      "surah": "Al-Fatihah",
+      "ayat": 5,
+      "audio": "speaker_001/al-fatihah/ayat_5.wav",
+      "similarity_pct": 18.2,
+      "status": "FAIL",
+      "audio_issues": [
+        "Silence panjang di awal (akan ditrim)"
+      ],
+      "cut_silence_sec": 0.41,
+      "transcription": "ما هكذا يمكنulously"
+    }
+  ]
+}
