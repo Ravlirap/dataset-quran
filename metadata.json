@@ -4166,6 +4166,55 @@
   },
   {
     "speaker_id": "speaker_037",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_037/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_037/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_037/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_037/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_037/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_037/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_037/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
     "surah": "Al-Ikhlas",
     "ayat": 1,
     "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
@@ -4184,6 +4233,55 @@
     "ayat": 3,
     "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
     "audio": "speaker_037/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_037/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_037/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_037/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_037/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_037/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_037/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_037",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_037/an-nas/ayat_6.wav"
   },
   {
     "speaker_id": "speaker_038",
@@ -4541,5 +4639,1433 @@
     "ayat": 6,
     "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
     "audio": "speaker_040/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_041/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_041/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_041/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_041/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_041/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_041/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_041/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_041/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_041/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_041/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_041/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_041/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_041/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_041/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_041/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_041/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_041",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_041/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_042/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_042/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_042/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_042/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_042/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_042/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_042/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_042/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_042/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_042/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_042/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_042/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_042/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_042/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_042/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_042/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_042",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_042/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_043/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_043/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_043/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_043/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_043/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_043/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_043/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_043/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_043/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_043/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_043/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_043/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_043/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_043/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_043/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_043/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_043",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_043/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_044/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_044/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_044/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_044/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_044/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_044/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_044/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_044/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_044/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_044/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_044/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_044/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_044/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_044/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_044/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_044/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_044",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_044/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_045/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_045/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_045/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_045/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_045/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_045/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_045/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_045/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_045/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_045/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_045/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_045/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_045/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_045/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_045/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_045/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_045",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_045/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_046/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_046/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_046/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_046/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_046/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_046/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_046/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_046/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_046/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_046/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_046/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_046/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_046/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_046/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_046/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_046/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_046",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_046/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_047/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_047/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_047/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_047/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_047/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_047/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_047/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_047/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_047/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_047/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_047/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_047/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_047/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_047/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_047/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_047/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_047",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_047/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_048/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_048/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_048/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_048/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_048/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_048/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_048/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_048/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_048/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_048/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_048/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_048/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_048/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_048/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_048/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_048/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_048",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_048/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_049/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_049/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_049/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_049/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_049/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_049/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_049/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_049/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_049/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_049/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_049/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_049/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_049/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_049/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_049/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_049/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_049",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_049/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_050/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_050/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_050/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_050/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_050/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_050/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_050/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_050/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_050/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_050/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_050/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_050/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_050/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_050/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_050/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_050/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_050",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_050/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_051/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_051/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_051/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_051/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_051/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_051/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_051/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_051/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_051/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_051/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_051/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_051/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_051/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_051/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_051/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_051/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_051",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_051/an-nas/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Fatihah",
+    "ayat": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_052/al-fatihah/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Fatihah",
+    "ayat": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "audio": "speaker_052/al-fatihah/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Fatihah",
+    "ayat": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "audio": "speaker_052/al-fatihah/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Fatihah",
+    "ayat": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "audio": "speaker_052/al-fatihah/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Fatihah",
+    "ayat": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "speaker_052/al-fatihah/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Fatihah",
+    "ayat": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "audio": "speaker_052/al-fatihah/ayat_6.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Fatihah",
+    "ayat": 7,
+    "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "audio": "speaker_052/al-fatihah/ayat_7.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Ikhlas",
+    "ayat": 1,
+    "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "audio": "speaker_052/al-ikhlas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Ikhlas",
+    "ayat": 2,
+    "text": "اللَّهُ الصَّمَدُ",
+    "audio": "speaker_052/al-ikhlas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Ikhlas",
+    "ayat": 3,
+    "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "audio": "speaker_052/al-ikhlas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "Al-Ikhlas",
+    "ayat": 4,
+    "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "audio": "speaker_052/al-ikhlas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "An-Nas",
+    "ayat": 1,
+    "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "audio": "speaker_052/an-nas/ayat_1.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "An-Nas",
+    "ayat": 2,
+    "text": "مَلِكِ النَّاسِ",
+    "audio": "speaker_052/an-nas/ayat_2.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "An-Nas",
+    "ayat": 3,
+    "text": "إِلَٰهِ النَّاسِ",
+    "audio": "speaker_052/an-nas/ayat_3.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "An-Nas",
+    "ayat": 4,
+    "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "audio": "speaker_052/an-nas/ayat_4.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "An-Nas",
+    "ayat": 5,
+    "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "audio": "speaker_052/an-nas/ayat_5.wav"
+  },
+  {
+    "speaker_id": "speaker_052",
+    "surah": "An-Nas",
+    "ayat": 6,
+    "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "audio": "speaker_052/an-nas/ayat_6.wav"
   }
 ]
